@@ -1,0 +1,182 @@
+[
+   {
+      "id":"1",
+      "nombre":"Torta de Chocolate",
+      "stock":"35",
+      "precio":"5.00",
+      "url":"torta-de-chocolate",
+      "img":"tc.jpg",
+      "fecha":"2019-06-17 15:56:23"
+   },
+   {
+      "id":"2",
+      "nombre":"Pie de Manzana",
+      "stock":"45",
+      "precio":"4.50",
+      "url":"pie-de-manzana",
+      "img":"pm.jpg",
+      "fecha":"2018-08-11 16:25:33"
+   },
+   {
+      "id":"3",
+      "nombre":"Arroz con Leche",
+      "stock":"36",
+      "precio":"2.50",
+      "url":"arroz-con-leche",
+      "img":"al.jpg",
+      "fecha":"2018-08-11 16:25:36"
+   },
+   {
+      "id":"4",
+      "nombre":"Gelatina de Fresa",
+      "stock":"60",
+      "precio":"1.50",
+      "url":"gelatina-de-fresa",
+      "img":"gf.jpg",
+      "fecha":"2018-08-11 16:25:39"
+   },
+   {
+      "id":"5",
+      "nombre":"Suspiro a la Limeña",
+      "stock":"26",
+      "precio":"6.00",
+      "url":"suspiro-a-la-limeña",
+      "img":"sl.jpg",
+      "fecha":"2019-06-17 15:58:43"
+   },
+   {
+      "id":"6",
+      "nombre":"Mazamorra Morada",
+      "stock":"50",
+      "precio":"3.00",
+      "url":"mazamorra-morada",
+      "img":"mm.png",
+      "fecha":"2018-08-11 16:25:45"
+   },
+   {
+      "id":"7",
+      "nombre":"Postre 7",
+      "stock":"50",
+      "precio":"3.00",
+      "url":"mazamorra-morada",
+      "img":"mm.png",
+      "fecha":"2018-08-11 16:25:45"
+   },
+   {
+      "id":"8",
+      "nombre":"Postre 8",
+      "stock":"50",
+      "precio":"3.00",
+      "url":"mazamorra-morada",
+      "img":"mm.png",
+      "fecha":"2018-08-11 16:25:45"
+   },
+   {
+      "id":"9",
+      "nombre":"Postre 9",
+      "stock":"50",
+      "precio":"3.00",
+      "url":"mazamorra-morada",
+      "img":"mm.png",
+      "fecha":"2018-08-11 16:25:45"
+   },
+   {
+      "id":"10",
+      "nombre":"Postre 10",
+      "stock":"50",
+      "precio":"3.00",
+      "url":"mazamorra-morada",
+      "img":"mm.png",
+      "fecha":"2018-08-11 16:25:45"
+   },
+   {
+      "id":"11",
+      "nombre":"Postre 11",
+      "stock":"35",
+      "precio":"5.00",
+      "url":"torta-de-chocolate",
+      "img":"tc.jpg",
+      "fecha":"2019-06-17 15:56:23"
+   },
+   {
+      "id":"12",
+      "nombre":"Postre 12",
+      "stock":"45",
+      "precio":"4.50",
+      "url":"pie-de-manzana",
+      "img":"pm.jpg",
+      "fecha":"2018-08-11 16:25:33"
+   },
+   {
+      "id":"13",
+      "nombre":"Postre 13",
+      "stock":"36",
+      "precio":"2.50",
+      "url":"arroz-con-leche",
+      "img":"al.jpg",
+      "fecha":"2018-08-11 16:25:36"
+   },
+   {
+      "id":"14",
+      "nombre":"Postre 14",
+      "stock":"60",
+      "precio":"1.50",
+      "url":"gelatina-de-fresa",
+      "img":"gf.jpg",
+      "fecha":"2018-08-11 16:25:39"
+   },
+   {
+      "id":"15",
+      "nombre":"Postre 15",
+      "stock":"26",
+      "precio":"6.00",
+      "url":"suspiro-a-la-limeña",
+      "img":"sl.jpg",
+      "fecha":"2019-06-17 15:58:43"
+   },
+   {
+      "id":"16",
+      "nombre":"Postre 16",
+      "stock":"50",
+      "precio":"3.00",
+      "url":"mazamorra-morada",
+      "img":"mm.png",
+      "fecha":"2018-08-11 16:25:45"
+   },
+   {
+      "id":"17",
+      "nombre":"Postre 17",
+      "stock":"50",
+      "precio":"3.00",
+      "url":"mazamorra-morada",
+      "img":"mm.png",
+      "fecha":"2018-08-11 16:25:45"
+   },
+   {
+      "id":"18",
+      "nombre":"Postre 18",
+      "stock":"50",
+      "precio":"3.00",
+      "url":"mazamorra-morada",
+      "img":"mm.png",
+      "fecha":"2018-08-11 16:25:45"
+   },
+   {
+      "id":"19",
+      "nombre":"Postre 19",
+      "stock":"50",
+      "precio":"3.00",
+      "url":"mazamorra-morada",
+      "img":"mm.png",
+      "fecha":"2018-08-11 16:25:45"
+   },
+   {
+      "id":"20",
+      "nombre":"Postre 20",
+      "stock":"50",
+      "precio":"3.00",
+      "url":"mazamorra-morada",
+      "img":"mm.png",
+      "fecha":"2018-08-11 16:25:45"
+   }
+]
