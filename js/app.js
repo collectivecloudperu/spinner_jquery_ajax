@@ -3,17 +3,19 @@ $('#obtenerDatos').click(function(e) {
     e.preventDefault();
 
     $.ajax({
-            url: "json/postres.json",
+            url: "json/postres.json", // Llamo al archivo JSON con los datos 
             type: "get",
             dataType: "json",
             cache: false,
             contentType: false,
             processData: false,
             beforeSend: function() {
-                $('#datos').html("<img src='img/spinner.gif' />");
+                $('#datos').html("<img src='img/spinner.gif' />"); // Muestro el Spinner (Animación) 
             },
         })
 
+        // Cuando la petición de los datos fue correcta, mediante el método 'done' imprimo los datos
+        // en mi div #datos, utilizo una lista desordenada <ul></ul> 
         .done(function(data) {
 
             console.log(data);
@@ -26,9 +28,10 @@ $('#obtenerDatos').click(function(e) {
             $('#datos').html(datos);
 
         })
-
+        
+        // Este método es para manejar algún error al obtener los datos 
         .fail(function(data) {
             //
         });
 
-});
+}); 
