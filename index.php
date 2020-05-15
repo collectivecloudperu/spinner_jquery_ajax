@@ -30,9 +30,7 @@
 
                 <button type="button" class="btn btn-primary" id="obtenerDatos">Obtener Datos</button>
 
-				<div id="datos" class="mt-5"></div>
-
-				<div id="spinner" class="spinner ocultar fondo"></div>
+		  <div id="datos" class="mt-5"></div>				
 
               </div>
 
